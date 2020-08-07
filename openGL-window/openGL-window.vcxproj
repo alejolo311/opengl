@@ -24,6 +24,7 @@
     <ProjectGuid>{4f553b18-f8ea-4a43-bf48-61f42658c9a9}</ProjectGuid>
     <RootNamespace>openGLwindow</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>openGL</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
